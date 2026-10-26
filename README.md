@@ -30,6 +30,22 @@ On Windows, run `restaurant.exe` instead of `./restaurant`.
 - Screenshots : Project implementation / output
 - Demo video : See the link below
 
+## Screenshots
+### Menu
+![Menu](menu.png)
+
+### Add Item
+![Add Item](add-item.png)
+
+### View Order
+![View Order](view-order.png)
+
+### Bill
+![Bill](bill.png)
+
+### Save Order
+![Save Order](save-order.png)
+
 ## Demo Video
 Demo video link: PASTE-YOUR-VIDEO-LINK-HERE
 
