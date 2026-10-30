@@ -47,7 +47,7 @@ On Windows, run `restaurant.exe` instead of `./restaurant`.
 ![Save Order](save-order.png)
 
 ## Demo Video
-Demo video link: PASTE-YOUR-VIDEO-LINK-HERE
+Demo video link: https://drive.google.com/file/d/1vmqpGDeS_G6hm79YYNhcjsrbdCc_bTjr/view?usp=sharing
 
 ## Author
 jaswanthikuramsetti-a11y
